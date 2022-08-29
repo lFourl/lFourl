@@ -4,4 +4,4 @@
 - I want to use this as a platform to document my _projects_
 - How to reach me: @justawest on instagram
 
-**Currently about to take my AWS cloud practitioner certification on Tuesday evening.**
+**Currently about to take my AWS cloud practitioner certification soon**
