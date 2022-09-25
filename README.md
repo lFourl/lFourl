@@ -5,6 +5,9 @@
 - How to reach me: don't do that yet lol
 
 **AWS cloud practitioner certified**
+
 Working on Solutions Architect now
+
 Then Developer Associate by end of 2022
+
 Then DevOps Engineer
