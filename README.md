@@ -4,4 +4,7 @@
 - I want to use this as a platform to document my _AWS projects_
 - How to reach me: don't do that yet lol
 
-**Currently about to take my AWS cloud practitioner certification soon**
+**AWS cloud practitioner certified**
+Working on Solutions Architect now
+Then Developer Associate by end of 2022
+Then DevOps Engineer
