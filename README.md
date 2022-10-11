@@ -3,6 +3,6 @@
 - I’m currently learning AWS cloud developing tools and ReactJS
 - How to reach me: darwest18@gmail.com
 
-**AWS cloud practitioner certified**
+**AWS Cloud Practitioner Certified**
 
 Working on Solutions Architect now
