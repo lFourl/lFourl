@@ -5,4 +5,4 @@
 
 **AWS Cloud Practitioner Certified**
 
-Working on Solutions Architect now
+Working on Certified Developer - Associate now
