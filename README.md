@@ -1,7 +1,7 @@
 # Hi, I’m Darius
-- I’m interested in PC gaming, the outdoors (mtb, rock climbing, camping), web development, and AWS cloud development
-- I’m currently learning AWS cloud developing tools and NextJS
+- I’m interested in PC gaming, the outdoors (mtb, rock climbing, camping), web development, and cloud development
+- I’m currently learning cloud development tools and ASP.NET
 
 **AWS Cloud Practitioner Certified**
 
-Working on AWS Certified Developer - Associate now
+Working towards on Azure Developer Associate now
