@@ -4,3 +4,7 @@
 
 **AWS Cloud Practitioner Certified**
 
+## Recent Projects/Studies
+Typescript DSA
+Open Source Contributions
+
