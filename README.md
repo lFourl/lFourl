@@ -7,5 +7,5 @@
 ## What I've been working on
 - Contract Work
 - Typescript DSA
-- Go blog
+- Go blog (Templ)
 
