@@ -6,6 +6,6 @@
 
 ## What I've been working on
 - Contract Work
-- Typescript DSA
+- Typescript/Go DSA
 - Go blog (Templ)
 
