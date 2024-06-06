@@ -3,9 +3,10 @@
 - I’m currently working on Go projects, learning HTMX, and studying
 
 **AWS Cloud Practitioner Certified**
+**AWS Solutions Architect - Associate Certified**
 
 ## What I've been working on
 - Contract Work
 - Typescript/Go DSA
-- AWS Solutions Architect Associate
+- (Blog)[https://blog.dwest.dev]
 
