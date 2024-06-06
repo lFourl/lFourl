@@ -8,5 +8,5 @@
 ## What I've been working on
 - Contract Work
 - Typescript/Go DSA
-- (Blog)[https://blog.dwest.dev]
+- [Blog](https://blog.dwest.dev)
 
