@@ -1,5 +1,5 @@
 # Hi, I’m Darius
-- I love soccer, web development, and riding my Begode T4 :P
+- I love BMWs, web development, and riding my Begode T4 :P
 - I’m currently building cool stuff at Sanity.io and working on Go blockchain projects.
 
 **AWS Cloud Practitioner Certified**\
